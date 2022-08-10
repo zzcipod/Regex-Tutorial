@@ -69,6 +69,8 @@ Boundary in Regex means the postion between \w- /W. In this case, we can find [\
 
 ### Look-ahead and Look-behind
 
+Postitive Lookahead - Matches a group after the main expression without including it in the result. Negative Lookahead - Specifies a group that can not match after the main expression. Positive Lookbehind - Matches a group without including it in the result. Negative Lookbehind - Specifies a group that can not match before the main expression if there is a match it is discarded
+
 ## Author
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
