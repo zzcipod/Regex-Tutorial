@@ -65,7 +65,7 @@ Boundary in Regex means the postion between \w- /W. In this case, we can find [\
 
 ### Back-references
 
-
+When N is the group number, a group can be referenced in the pattern using \N. we can use \k<name> to reference a named group.
 
 ### Look-ahead and Look-behind
 
